@@ -1,6 +1,6 @@
 # arduino_controller
 
-A new Flutter project.
+Simple controller for ur arduino projects 
 
 ## Getting Started
 
